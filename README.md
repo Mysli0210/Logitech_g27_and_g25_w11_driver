@@ -1,4 +1,9 @@
 # Logitech_g27_and_g25_w11_driver
+
+
+###DEPRECATED### USE this repo instead
+https://github.com/Mysli0210/Legacy-Logitech-wheels-for-W11
+
 Extracted 2022.3.0.2 logi_joy_hid driver to make G25 and G27 steering wheels work on W11. 
 FFB has been tested in Dirt Rally 2, though there is no profiler application for tuning/calibrating. 
 Calibration can be done with other available tools however.
